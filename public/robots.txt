@@ -1,0 +1,9 @@
+﻿User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cms/
+Disallow: /uploads/
+Disallow: /?*sort=
+Disallow: /?*filter=
+
+Sitemap: https://oakcounselingservices.com/sitemap.xml

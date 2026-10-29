@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/",
+    "expected": 200,
+    "status": 200,
+    "title": "Home | Oak Counseling Services, Inc."
+  },
+  {
+    "path": "/service/individual-therapy",
+    "expected": 200,
+    "status": 200,
+    "title": "Individual Therapy | Oak Counseling Services, Inc."
+  },
+  {
+    "path": "/blog/calming-your-mind-in-stressful-times",
+    "expected": 200,
+    "status": 200,
+    "title": "Calming Your Mind in Stressful Times | Oak Counseling Services, Inc."
+  },
+  {
+    "path": "/missing-page",
+    "expected": 404,
+    "status": 404,
+    "title": "Page not found | Oak Counseling Services, Inc."
+  },
+  {
+    "path": "/service/not-a-service",
+    "expected": 404,
+    "status": 404,
+    "title": "Page not found | Oak Counseling Services, Inc."
+  },
+  {
+    "path": "/404",
+    "expected": 404,
+    "status": 404,
+    "title": "Page not found | Oak Counseling Services, Inc."
+  }
+]

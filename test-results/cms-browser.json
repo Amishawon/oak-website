@@ -1,0 +1,6 @@
+[
+  "New published WordPress service route renders without rebuild",
+  "WordPress edit reaches React after focus refresh without rebuild",
+  "Unpublished service becomes not found without rebuild",
+  "CMS outage produces error state instead of mock fallback"
+]

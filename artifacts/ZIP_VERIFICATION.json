@@ -1,0 +1,16 @@
+[
+    {
+        "archive":  "oak-website-source.zip",
+        "entries":  125,
+        "bytes":  34135934,
+        "sha256":  "CC6FEDF17BEC7F7EBB7EAC4F363A542CDBA4EA2828B7228B0F3CA9E84A58C2D6",
+        "verified":  true
+    },
+    {
+        "archive":  "oak-website-production.zip",
+        "entries":  120,
+        "bytes":  34678819,
+        "sha256":  "9605ABB1CE7830C558CA92053A7D27976BDBEB6B5D9133784C2B0A69D3BA85E6",
+        "verified":  true
+    }
+]

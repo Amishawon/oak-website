@@ -1,0 +1,269 @@
+[
+  {
+    "id": "augiA20Il",
+    "path": "/",
+    "afterPath": "/",
+    "sections": [
+      {
+        "id": "YUaF8LZ9K",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "oGR3TvKfQ",
+        "name": "About Us Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "G3U24RL9_",
+        "name": "Service Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "ZD8YAjvQE",
+        "name": "Stats Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "OVuYbmAQD",
+        "name": "Why Choose Us  Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "FWhSIv1nb",
+        "name": "Team Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "AB1MXJFTX",
+        "name": "Testimonial Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "th8kHXY7c",
+    "path": "/about",
+    "afterPath": "/about",
+    "sections": [
+      {
+        "id": "D7P5OFMCg",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "UyGScyLUU",
+        "name": "Stats Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "QfXYAdx3g",
+        "name": "Why Choose Us 01",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "yNuPZGpig",
+        "name": "Why Choose Us 02",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "bDxnKy3fH",
+        "name": "Team Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "qdTb7xgfO",
+    "path": "/service",
+    "afterPath": "/service",
+    "sections": [
+      {
+        "id": "udgrboBPC",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "tJ6kKdeyy",
+        "name": "Testimonial Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "YxLivuOYT",
+        "name": "Blog Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "LK26eAVhS",
+    "path": "/service/:Services",
+    "afterPath": "/service/:Services",
+    "sections": [
+      {
+        "id": "qIorW3v6x",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "orNqCwLLj",
+        "name": "Service Details Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "T8twTu3RQ",
+        "name": "Service Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "hXUbqCEDE",
+    "path": "/blog",
+    "afterPath": "/blog",
+    "sections": [
+      {
+        "id": "mYMAxcU0x",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "IeHoMdjSs",
+    "path": "/blog/:Blogs",
+    "afterPath": "/blog/:Blogs",
+    "sections": [
+      {
+        "id": "eC_Cnfunh",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "uj6X5EfZc",
+        "name": "Blog Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "op8DMJZb2",
+    "path": "/booking",
+    "afterPath": "/booking",
+    "sections": [
+      {
+        "id": "nXWMzt7XV",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "h4vYpSVLD",
+        "name": "Testimonial Section",
+        "exists": true,
+        "visible": true
+      },
+      {
+        "id": "dFBGFETNH",
+        "name": "Blog Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "Wlcj4NTJ8",
+    "path": "/contact",
+    "afterPath": "/contact",
+    "sections": [
+      {
+        "id": "OkHBf83nI",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "sAJeIij1w",
+    "path": "/legal/:Legal",
+    "afterPath": "/legal/:Legal",
+    "sections": [
+      {
+        "id": "ie1rLiDRE",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "c0RlReOar",
+    "path": "/testimonial",
+    "afterPath": "/testimonial",
+    "sections": [
+      {
+        "id": "IDGXqjVxi",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  },
+  {
+    "id": "XENrf8Prs",
+    "path": "/404",
+    "afterPath": "/404",
+    "sections": [
+      {
+        "id": "T4XNJxTcR",
+        "name": "Hero Section",
+        "exists": true,
+        "visible": true
+      }
+    ],
+    "orderPreserved": true,
+    "breakpointsPreserved": true
+  }
+]

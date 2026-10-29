@@ -1,0 +1,823 @@
+{
+  "settings": {
+    "title": "Oak Counseling Services, Inc.",
+    "phone": "860-316-0262",
+    "email": "info@oakcounselingservices.com",
+    "jobsEmail": "Jobs@oakcounselingservices.com",
+    "fax": "860-318-7442",
+    "bookingUrl": "",
+    "intro": "Oak Counseling Services, Inc. offers collaborative counseling, medication services, and community support.",
+    "locations": [
+      "12 Curtis St., Suite 24, Meriden, CT 06450",
+      "185 Silas Deane Hwy, 3rd Floor, Wethersfield, CT 06109"
+    ]
+  },
+  "services": [
+    {
+      "id": "service-0",
+      "title": "Individual Therapy",
+      "slug": "individual-therapy",
+      "excerpt": "Individual therapy offers time to focus on your experiences, concerns, and goals with a clinician. Sessions may address anxiety, depression, trauma, grief, stress, relationship patterns, or changes in your life.",
+      "body": "<p>Individual therapy offers time to focus on your experiences, concerns, and goals with a clinician. Sessions may address anxiety, depression, trauma, grief, stress, relationship patterns, or changes in your life.</p><p>We work with you to understand what is happening, identify the changes you want to make, and practice skills that support those goals. The approach and pace are tailored to your needs, with opportunities to review progress and adjust your treatment plan.</p><p>Contact Oak to ask about clinician availability and whether individual therapy is a fit for you.</p>",
+      "category": "Therapy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-1",
+      "title": "Medication Evaluation",
+      "slug": "depression-support",
+      "excerpt": "A medication evaluation is an appointment with a prescribing provider to discuss mental health symptoms and possible treatment options. The provider reviews relevant history, current medications, symptoms, and treatment goals.",
+      "body": "<p>A medication evaluation is an appointment with a prescribing provider to discuss mental health symptoms and possible treatment options. The provider reviews relevant history, current medications, symptoms, and treatment goals.</p><p>The appointment may include discussion of whether medication could be helpful, potential benefits and side effects, and alternatives or additional supports. An evaluation does not necessarily result in a prescription. Recommendations depend on the providerâ€™s clinical assessment.</p><p>Contact Oak to ask about medication evaluation appointments with Steven Gatte, APRN.</p>",
+      "category": "Therapy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-2",
+      "title": "Family Therapy",
+      "slug": "family-therapy",
+      "excerpt": "Family therapy provides space for family members to understand one another and work on concerns affecting their relationships. Sessions may address communication, parenting stress, conflict, changing family roles, or the impact of a family memberâ€™s mental health needs.",
+      "body": "<p>Family therapy provides space for family members to understand one another and work on concerns affecting their relationships. Sessions may address communication, parenting stress, conflict, changing family roles, or the impact of a family memberâ€™s mental health needs.</p><p>We help families identify patterns, recognize strengths, and practice more constructive ways of responding to difficulties. The clinician will discuss who should participate and how sessions can support the familyâ€™s goals.</p><p>Contact Oak to ask about family therapy and the needs you would like to address.</p>",
+      "category": "Therapy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-3",
+      "title": "Medication Management",
+      "slug": "trauma-ptsd-recovery",
+      "excerpt": "Medication management involves follow-up appointments to review how treatment is working. Your provider discusses symptoms, side effects, concerns, and any recommended changes to the medication plan.",
+      "body": "<p>Medication management involves follow-up appointments to review how treatment is working. Your provider discusses symptoms, side effects, concerns, and any recommended changes to the medication plan.</p><p>When appropriate and with the necessary permission, your provider may coordinate with your therapist or other healthcare professionals. Follow-up frequency and prescribing decisions depend on your individual needs.</p><p>Contact Oak for information about medication management availability and scheduling.</p>",
+      "category": "Therapy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-4",
+      "title": "Couples Counseling",
+      "slug": "couples-counseling",
+      "excerpt": "Couples counseling helps partners explore relationship concerns and develop more effective ways to communicate. Sessions may focus on recurring conflict, emotional connection, trust, expectations, or decisions about the future of the relationship.",
+      "body": "<p>Couples counseling helps partners explore relationship concerns and develop more effective ways to communicate. Sessions may focus on recurring conflict, emotional connection, trust, expectations, or decisions about the future of the relationship.</p><p>The clinician works with both partners to understand their perspectives and identify shared goals. Treatment includes attention to whether joint sessions are appropriate for the coupleâ€™s circumstances.</p><p>Contact Oak to discuss couples counseling and appointment options.</p>",
+      "category": "Therapy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-5",
+      "title": "CSSD ASIST Program",
+      "slug": "cognitive-behavioral-therapy",
+      "excerpt": "ASIST stands for Advanced Supervision Intervention and Support Team. Oakâ€™s Meriden ASIST program serves eligible adults involved with the court system who need support for mental health concerns, including concerns that occur alongside substance use.",
+      "body": "<p>ASIST stands for Advanced Supervision Intervention and Support Team. Oakâ€™s Meriden ASIST program serves eligible adults involved with the court system who need support for mental health concerns, including concerns that occur alongside substance use.</p><p>Services are individualized and may include assessment, treatment planning, individual and group interventions, clinical case management, and coordination with medication providers. Support may also include connecting clients with resources for housing, benefits, employment, and other needs that affect stability.</p><p>Oak collaborates with referring probation professionals and other authorized providers within program requirements and applicable confidentiality rules. Participation follows the Court Support Services Division referral and eligibility process.</p><p>Referring professionals can contact Oak to discuss program eligibility, availability, and the approved referral process. Individuals interested in ASIST should discuss a referral with their probation officer or referring professional.</p>",
+      "category": "Programs",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-6",
+      "title": "DCF Supervised Visitation",
+      "slug": "dcf-supervised-visitation",
+      "excerpt": "Supervised Visitation supports safe contact between children or youth and approved parents, relatives, or other significant people in their lives. Staff facilitate and objectively observe visits in the setting authorized for the assignment.",
+      "body": "<p>Supervised Visitation supports safe contact between children or youth and approved parents, relatives, or other significant people in their lives. Staff facilitate and objectively observe visits in the setting authorized for the assignment.</p><p>The service includes attention to safety, parent-child interaction, and strengths or concerns observed during the visit. Staff provide feedback and complete visit documentation according to program requirements. Visits follow the approved referral and case plan.</p><p>Supervised Visitation is a visit-monitoring service, rather than a family therapy session. Contact Oak to discuss referral availability and authorized visit arrangements.</p>",
+      "category": "Programs",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-7",
+      "title": "DCF Temporary Care",
+      "slug": "dcf-temporary-care",
+      "excerpt": "Temporary Care provides short-term, non-overnight support for a child or youth while a more sustainable care arrangement is developed. Staff provide safe, age-appropriate activities and attend to needs within the authorized assignment.",
+      "body": "<p>Temporary Care provides short-term, non-overnight support for a child or youth while a more sustainable care arrangement is developed. Staff provide safe, age-appropriate activities and attend to needs within the authorized assignment.</p><p>Service arrangements are coordinated with DCF and caregivers, including the approved setting, schedule, and care plan. Temporary Care is intended for a limited period and does not provide ongoing daycare or residential care.</p><p>DCF professionals can contact Oak to discuss the childâ€™s needs and service availability.</p>",
+      "category": "Programs",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-8",
+      "title": "DCF Therapeutic Support Staff",
+      "slug": "dcf-therapeutic-support-staff",
+      "excerpt": "Therapeutic Support Staff, or TSS, provides individualized support for children and youth through structured activities in home and community settings. Activities connect to case-plan goals and help participants practice skills in everyday situations.",
+      "body": "<p>Therapeutic Support Staff, or TSS, provides individualized support for children and youth through structured activities in home and community settings. Activities connect to case-plan goals and help participants practice skills in everyday situations.</p><p>Support may focus on social interactions, coping, emotional regulation, positive behavior, and participation in community activities. Staff coordinate with caregivers and other authorized team members to support progress and continuity.</p><p>TSS provides practical skill-building support and does not replace psychotherapy. Contact Oak to discuss an authorized referral.</p>",
+      "category": "Programs",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-9",
+      "title": "Clinical Supervision for Social Workers Pursuing LCSW Licensure",
+      "slug": "clinical-supervision-for-social-workers-pursuing-lcsw-licensure",
+      "excerpt": "Clinical supervision helps social workers review clinical work and strengthen professional judgment. Topics may include assessment, case formulation, interventions, documentation, ethics, and professional growth.",
+      "body": "<p>Clinical supervision helps social workers review clinical work and strengthen professional judgment. Topics may include assessment, case formulation, interventions, documentation, ethics, and professional growth.</p><p>Before beginning, we discuss your goals, work setting, supervision needs, and applicable licensure requirements. Contact Oak to ask about availability, the supervision format, and whether the arrangement fits your needs.</p>",
+      "category": "Academy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-10",
+      "title": "Internship Placements",
+      "slug": "internship-placements",
+      "excerpt": "Oak offers supervised learning opportunities for social work students when placements are available. Activities may include observation, assessment, treatment planning, documentation, case coordination, and clinical work appropriate to the studentâ€™s preparation.",
+      "body": "<p>Oak offers supervised learning opportunities for social work students when placements are available. Activities may include observation, assessment, treatment planning, documentation, case coordination, and clinical work appropriate to the studentâ€™s preparation.</p><p>Placements are coordinated with the academic program and include a learning plan and supervision. Responsibilities reflect placement requirements, program needs, and demonstrated readiness.</p><p>Students and field coordinators may contact Oak about applications. Acceptance depends on fit, supervision capacity, school requirements, and required screening.</p>",
+      "category": "Academy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    },
+    {
+      "id": "service-11",
+      "title": "Academy Training and Professional Development",
+      "slug": "academy-training-and-professional-development",
+      "excerpt": "Oak Clinical Academy uses guided learning, reflection, and practice to strengthen clinical skills. Learning areas may include assessment, diagnostic reasoning, treatment planning, documentation, safety, and culturally responsive care.",
+      "body": "<p>Oak Clinical Academy uses guided learning, reflection, and practice to strengthen clinical skills. Learning areas may include assessment, diagnostic reasoning, treatment planning, documentation, safety, and culturally responsive care.</p><p>Contact Oak to ask which learning opportunities are currently available and who may participate.</p>",
+      "category": "Academy",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "approved": true
+    }
+  ],
+  "team": [
+    {
+      "id": "team-0",
+      "title": "Satina Mitchell LCSW",
+      "slug": "satina-mitchell-lcsw",
+      "role": "CEO & Clinical Director",
+      "excerpt": "Satina Mitchell is the founder, CEO, and Clinical Director of Oak Counseling Services, Inc. She guides the practiceâ€™s clinical services, supervision, and program development. Her work emphasizes person-centered care, cultural humility, and continued professional learning.",
+      "body": "Satina Mitchell is the founder, CEO, and Clinical Director of Oak Counseling Services, Inc. She guides the practiceâ€™s clinical services, supervision, and program development. Her work emphasizes person-centered care, cultural humility, and continued professional learning.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-1",
+      "title": "Mestude Vertusma LMSW",
+      "slug": "mestude-vertusma-lmsw",
+      "role": "ASIST Clinician | Meriden",
+      "excerpt": "Mestude Vertusma serves as an ASIST clinician at Oakâ€™s Meriden location, working with adults referred through the program. Her role includes assessment, treatment planning, clinical services, and coordination within the ASIST team.",
+      "body": "Mestude Vertusma serves as an ASIST clinician at Oakâ€™s Meriden location, working with adults referred through the program. Her role includes assessment, treatment planning, clinical services, and coordination within the ASIST team.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-2",
+      "title": "Antonia Jackson LMSW",
+      "slug": "antonia-jackson-lmsw",
+      "role": "Clinician | Wethersfield",
+      "excerpt": "Antonia Jackson is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability.",
+      "body": "Antonia Jackson is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-3",
+      "title": "Camille Lewis LMSW",
+      "slug": "camille-lewis-lmsw",
+      "role": "Clinician | Wethersfield",
+      "excerpt": "Camille Lewis is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability.",
+      "body": "Camille Lewis is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-4",
+      "title": "Hayley Fama",
+      "slug": "hayley-fama",
+      "role": "MSW Intern | Meriden",
+      "excerpt": "Hayley Fama is an MSW intern at Oakâ€™s Meriden location. She participates in supervised clinical learning and activities appropriate to her placement and level of preparation.",
+      "body": "Hayley Fama is an MSW intern at Oakâ€™s Meriden location. She participates in supervised clinical learning and activities appropriate to her placement and level of preparation.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-5",
+      "title": "Steven Gatte APRN",
+      "slug": "steven-gatte-aprn",
+      "role": "Medication Management",
+      "excerpt": "Steven Gatte provides medication evaluation and management through Oak. Contact our office for information about appointment availability and referral requirements.",
+      "body": "Steven Gatte provides medication evaluation and management through Oak. Contact our office for information about appointment availability and referral requirements.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "team-6",
+      "title": "Ed Buce",
+      "slug": "ed-buce",
+      "role": "Biller",
+      "excerpt": "Ed Buce supports Oakâ€™s billing operations. Please contact the office for billing questions and assistance with the appropriate next step.",
+      "body": "Ed Buce supports Oakâ€™s billing operations. Please contact the office for billing questions and assistance with the appropriate next step.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    },
+    {
+      "id": "profile-pending",
+      "title": "Profile pending",
+      "slug": "profile-pending",
+      "role": "Development placeholder",
+      "body": "Additional team profile pending approved public details.",
+      "image": "/assets/profile.svg",
+      "approved": false
+    }
+  ],
+  "blogs": [
+    {
+      "id": "OukWSQAld",
+      "title": "Calming Your Mind in Stressful Times",
+      "slug": "calming-your-mind-in-stressful-times",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    },
+    {
+      "id": "i1Ea_W7Z6",
+      "title": "Why Talking About Your Feelings Matters",
+      "slug": "why-talking-about-your-feelings-matters",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    },
+    {
+      "id": "tEIguqwIy",
+      "title": "The Importance of Active Listening",
+      "slug": "the-importance-of-active-listening",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    },
+    {
+      "id": "Lqs8pzZDh",
+      "title": "Building Resilience in Tough Times",
+      "slug": "building-resilience-in-tough-times",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    },
+    {
+      "id": "Uv9mqMkHl",
+      "title": "Building Resilience in Tough Times ",
+      "slug": "building-resilience-resource-draft",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    },
+    {
+      "id": "QsQKOt3L2",
+      "title": "The Power of Positive Affirmations",
+      "slug": "the-power-of-positive-affirmations",
+      "excerpt": "Development article awaiting Oak editorial review.",
+      "image": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+      "body": "<p>In today's fast-paced world, stress and anxiety can feel overwhelming. This guide offers practical strategies, relaxation techniques, and mindfulness exercises to help you regain control and find peace amidst the chaos. Whether you're seeking immediate relief or long-term coping mechanisms, we'll provide the tools you need to calm your mind and enhance your overall well-being.</p><p></p><h3>Physical symptoms of anxiety</h3><p></p><p>To effectively manage anxiety, it's essential to understand its root causes.Identify Triggers â€“ What situations or thoughts trigger your anxiety? Keep a journal to track patterns.â€¨Practice Self-Awareness â€“ Pay attention to your physical and emotional responses to identify early signs of anxiety.â€¨Seek Professional Guidance â€“ Consult with a therapist or counselor for personalized insights and coping strategies.</p><p></p><h4>Actionable Strategies:</h4><p></p><p>A structured approach can help you navigate from anxiety to calm.Immediate Relief: Use deep breathing, muscle relaxation, or the 5-4-3-2-1 technique to quickly ease anxiety. Mid-Term Management: Regular exercise, balanced nutrition, and good sleep help build resilience. Long-Term Solutions: Mindfulness, cognitive restructuring, and exposure therapy tackle underlying issues. Pro Tip: Assemble a personalized anxiety toolkit with your favorite techniques for quick access.</p><p></p><h3>Exploring Anxiety's Roots</h3><p></p><p>Understanding the sources of anxiety is the first step toward managing it. Anxiety often stems from a combination of genetic predispositions, environmental stressors, and learned behaviors. Identifying these factors can provide valuable insights into your unique experience. By exploring the interplay between biology, psychology, and life events, you can develop a more comprehensive understanding of your anxiety.</p><p></p><p>Having a straightforward plan can really help ease anxiety. Quick tip: Give deep breathing or the 5-4-3-2-1 method a shot. Daily habits: Get moving, eat good food, and make sure you get enough sleep. For the long haul: Work on being mindful and shifting your thought patterns. Pro tip: Put together your own anxiety toolkit!</p><p></p><h3>A Healing Journey to Calmness</h3><p></p><p>Consistent self-care is crucial for managing anxiety.Practice Daily Mindfulness â€“ Even a few minutes of meditation can significantly reduce stress.â€¨Engage in Joyful Activities â€“ Make time for hobbies and activities that bring you pleasure and relaxation.â€¨Limit Exposure to Triggers â€“ Reduce your consumption of negative news and social media to minimize anxiety triggers.Example: Instead of scrolling through stressful news, try listening to calming music or spending time in nature.</p><p></p><h3>Quick Tips for Easing Anxiety</h3><p></p><p>Mindful practices can enhance your ability to manage anxiety.Guided Meditation Apps â€“ Use apps like Calm or Headspace for structured meditation sessions.â€¨Breathing Exercises â€“ Practice diaphragmatic breathing to slow your heart rate and calm your nervous system.â€¨Journaling â€“ Write down your thoughts and feelings to gain clarity and reduce mental clutter.Recommended Resource: The Mindoor app offers personalized anxiety management tools and guided support!</p><p></p><h3>Cultivating a Peaceful Mindset</h3><p></p><p>Anxiety doesnâ€™t have to run your life. By figuring out where it comes from, using some handy strategies, and reaching out for help when you need it, you can build a calmer, tougher mindset.Here are some common anxiety triggers and how to tackle them: \"I feel overwhelmed.\" â†’ \"Break tasks into smaller steps.\"\"Iâ€™m worried about the future.\" â†’ \"Focus on the present, not what-ifs.\"\"I canâ€™t control my thoughts.\" â†’ \"Challenge negative thoughts.\"Pro Tip: Join a support group for encouragement!</p>",
+      "approved": false
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-292",
+      "title": "How do I get started?",
+      "body": "Call 860-316-0262 or submit an appointment inquiry with your contact details and service of interest. We will discuss next steps and availability. Agency programs follow their own referral and authorization process.",
+      "approved": true
+    },
+    {
+      "id": "faq-294",
+      "title": "Where are you located?",
+      "body": "Our main office is at 12 Curtis St., Suite 24, Meriden, CT 06450. Our second office is at 185 Silas Deane Hwy, 3rd Floor, Wethersfield, CT 06109. Confirm the location of your appointment when scheduling.",
+      "approved": true
+    },
+    {
+      "id": "faq-296",
+      "title": "Do you offer telehealth?",
+      "body": "Telehealth may be available depending on the service, provider, clinical fit, and where you will be physically located during the appointment. Contact Oak to discuss your options.",
+      "approved": true
+    },
+    {
+      "id": "faq-298",
+      "title": "Do you accept my insurance?",
+      "body": "Contact Oak with your plan information before scheduling. Participation varies by provider and service. Your insurer determines benefits and any out-of-pocket responsibility.",
+      "approved": true
+    },
+    {
+      "id": "faq-300",
+      "title": "How much do services cost?",
+      "body": "Contact Oak for the applicable fee before services begin. Payment arrangements and coverage differ for therapy, evaluations, classes, and other programs.",
+      "approved": true
+    },
+    {
+      "id": "faq-302",
+      "title": "What happens at the first therapy appointment?",
+      "body": "Your clinician will discuss your concerns, history, goals, and needs. You will review how treatment works, confidentiality and its limits, and next steps.",
+      "approved": true
+    },
+    {
+      "id": "faq-304",
+      "title": "Can I enroll myself in ASIST or a DCF program?",
+      "body": "These programs follow agency referral, eligibility, and authorization requirements. For ASIST, speak with your probation officer or referring professional. For DCF community programs, speak with your DCF social worker. Oak can answer questions about the referral process.",
+      "approved": true
+    },
+    {
+      "id": "faq-306",
+      "title": "Is supervised visitation the same as family therapy?",
+      "body": "Supervised visitation focuses on facilitating and observing approved family contact within an agreed service plan. Family therapy addresses clinical and relationship goals through treatment. Contact Oak to clarify which service is being requested.",
+      "approved": true
+    },
+    {
+      "id": "faq-308",
+      "title": "Will an evaluation guarantee the result I need?",
+      "body": "An evaluation provides clinical findings and recommendations within the agreed scope. Decisions by courts, immigration authorities, employers, insurers, and medical teams are made by those parties. Discuss any outside requirements before scheduling an evaluation.",
+      "approved": true
+    },
+    {
+      "id": "faq-310",
+      "title": "Are all services on the website available immediately?",
+      "body": "Availability varies by service, provider, and program. Contact Oak to confirm current openings or group enrollment. Appointment and referral inquiries do not guarantee acceptance or immediate scheduling.",
+      "approved": true
+    },
+    {
+      "id": "faq-312",
+      "title": "How do I ask about jobs internships or supervision?",
+      "body": "For employment, email Jobs@oakcounselingservices.com. For internship or supervision inquiries, contact info@oakcounselingservices.com or use the Academy inquiry option.",
+      "approved": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "placeholder-0",
+      "slug": "review-placeholder-1",
+      "title": "Review placeholder 1",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    },
+    {
+      "id": "placeholder-1",
+      "slug": "review-placeholder-2",
+      "title": "Review placeholder 2",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    },
+    {
+      "id": "placeholder-2",
+      "slug": "review-placeholder-3",
+      "title": "Review placeholder 3",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    },
+    {
+      "id": "placeholder-3",
+      "slug": "review-placeholder-4",
+      "title": "Review placeholder 4",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    },
+    {
+      "id": "placeholder-4",
+      "slug": "review-placeholder-5",
+      "title": "Review placeholder 5",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    },
+    {
+      "id": "placeholder-5",
+      "slug": "review-placeholder-6",
+      "title": "Review placeholder 6",
+      "body": "Not a client testimonial. Authentic review and consent pending.",
+      "approved": false,
+      "consent": false,
+      "rating": 0,
+      "authenticRating": false,
+      "image": "/assets/profile.svg"
+    }
+  ],
+  "careers": [
+    {
+      "id": "career-1",
+      "title": "Expressions of interest",
+      "slug": "expressions-of-interest",
+      "excerpt": "There are no openings posted at this time. Send your resume and area of interest for future consideration.",
+      "body": "We welcome interest from professionals who value collaborative care, cultural humility, and continued learning. Opportunities may include clinical, community program, and administrative roles, depending on current needs.\nView our posted openings or send your resume and area of interest to Jobs@oakcounselingservices.com. Role requirements and application instructions are provided with each opening.",
+      "approved": true
+    }
+  ],
+  "legal": [
+    {
+      "id": "privacy-policy",
+      "title": "Privacy Policy",
+      "slug": "privacy-policy",
+      "body": "Oak policy copy pending. Approved policy text and effective date have not been supplied.",
+      "approved": false
+    },
+    {
+      "id": "terms-and-conditions",
+      "title": "Terms and Conditions",
+      "slug": "terms-and-conditions",
+      "body": "Oak policy copy pending. Approved policy text and effective date have not been supplied.",
+      "approved": false
+    }
+  ],
+  "home": [
+    {
+      "id": "hero",
+      "slug": "hero",
+      "title": "Counseling and support for the changes life brings",
+      "body": "Oak Counseling Services, Inc. offers collaborative counseling, medication services, and community support."
+    },
+    {
+      "id": "about",
+      "slug": "about",
+      "title": "Your Mental Wellbeing",
+      "body": "You bring knowledge of your own life. We bring clinical skills and a commitment to understanding your perspective. Together, we develop a plan that builds on your strengths and addresses the concerns that brought you to Oak."
+    },
+    {
+      "id": "services",
+      "slug": "services",
+      "title": "Care that fits your life",
+      "body": "",
+      "approved": true
+    },
+    {
+      "id": "team",
+      "slug": "team",
+      "title": "Meet Our Experts",
+      "body": "",
+      "approved": true
+    },
+    {
+      "id": "faq",
+      "slug": "faq",
+      "title": "Frequently Asked Questions",
+      "body": "",
+      "approved": true
+    },
+    {
+      "id": "cta",
+      "slug": "cta",
+      "title": "Take Your Next Step",
+      "body": "",
+      "approved": true
+    }
+  ],
+  "copy": {
+    "How to use this packet": [],
+    "Business identity and brand": [],
+    "Contact details": [
+      "Main location: 12 Curtis St., Suite 24, Meriden, CT 06450\nSecond location: 185 Silas Deane Hwy, 3rd Floor, Wethersfield, CT 06109\nPhone: 860-316-0262\nFax: 860-318-7442\nGeneral inquiries: info@oakcounselingservices.com\nEmployment inquiries: Jobs@oakcounselingservices.com"
+    ],
+    "Page Organization and Publication": [],
+    "Main navigation": [],
+    "Content available for Oak review": [],
+    "Services requiring a separate availability check": [],
+    "Future services to keep unpublished": [],
+    "Visitor routes": [],
+    "Home and About Oak": [],
+    "Home page headline": [
+      "Counseling and support for the changes life brings"
+    ],
+    "Home page introduction": [
+      "At Oak Counseling Services, Inc., we help individuals, couples, and families work through challenges and move toward meaningful change. Our approach is collaborative: we listen to your concerns, recognize your strengths, and work with you to identify goals that fit your life.",
+      "With offices in Meriden and Wethersfield, Connecticut, Oak brings together counseling, medication services, and specialized community programs. Contact us to explore the services and appointment options that may fit your needs."
+    ],
+    "Home page service overview": [
+      "Therapy and Medication Services: Support for emotional well-being, relationships, and mental health needs through counseling and medication evaluation and management.\nCourt and Community Programs: Specialized services for eligible adults, children, and families referred through court and community systems.\nOak Clinical Academy: Clinical supervision and learning opportunities for developing social work professionals."
+    ],
+    "About Oak": [
+      "Oak Counseling Services, Inc. is a boutique behavioral health practice founded by Satina Mitchell, LCSW. We provide person-centered care that considers each personâ€™s experiences, relationships, culture, and circumstances.",
+      "We believe that effective care starts with a respectful working relationship. Our clinicians collaborate with clients to understand their concerns, develop practical goals, and choose approaches that fit their needs. We value quality care, cultural humility, and ongoing professional learning.",
+      "Oak serves clients through our Meriden and Wethersfield offices and through specialized programs that connect clinical care with community support. Our goal is to help people build skills, strengthen relationships, and navigate the next steps in their lives."
+    ],
+    "Our approach": [
+      "You bring knowledge of your own life. We bring clinical skills and a commitment to understanding your perspective. Together, we develop a plan that builds on your strengths and addresses the concerns that brought you to Oak."
+    ],
+    "Individual Couples and Family Therapy": [],
+    "Therapy and Medication Services page introduction": [
+      "People seek care for many reasons: emotional distress, relationship difficulties, stressful transitions, or concerns about their mental health. Oak offers counseling and medication services based on individual needs and provider availability. We begin by learning about your concerns and discussing which service may be appropriate."
+    ],
+    "Individual Therapy": [
+      "Individual therapy offers time to focus on your experiences, concerns, and goals with a clinician. Sessions may address anxiety, depression, trauma, grief, stress, relationship patterns, or changes in your life.",
+      "We work with you to understand what is happening, identify the changes you want to make, and practice skills that support those goals. The approach and pace are tailored to your needs, with opportunities to review progress and adjust your treatment plan.",
+      "Contact Oak to ask about clinician availability and whether individual therapy is a fit for you."
+    ],
+    "Couples Counseling": [
+      "Couples counseling helps partners explore relationship concerns and develop more effective ways to communicate. Sessions may focus on recurring conflict, emotional connection, trust, expectations, or decisions about the future of the relationship.",
+      "The clinician works with both partners to understand their perspectives and identify shared goals. Treatment includes attention to whether joint sessions are appropriate for the coupleâ€™s circumstances.",
+      "Contact Oak to discuss couples counseling and appointment options."
+    ],
+    "Family Therapy": [
+      "Family therapy provides space for family members to understand one another and work on concerns affecting their relationships. Sessions may address communication, parenting stress, conflict, changing family roles, or the impact of a family memberâ€™s mental health needs.",
+      "We help families identify patterns, recognize strengths, and practice more constructive ways of responding to difficulties. The clinician will discuss who should participate and how sessions can support the familyâ€™s goals.",
+      "Contact Oak to ask about family therapy and the needs you would like to address."
+    ],
+    "Groups and Relationship Education": [],
+    "Group Therapy": [
+      "Group therapy brings people together around shared treatment goals with guidance from a clinician. Depending on the group, sessions may include discussion, education, and practice with skills for coping, emotional regulation, relationships, or recovery.",
+      "Participants have opportunities to learn from one another while working on their own goals. Before joining, we discuss the groupâ€™s focus, participation expectations, and whether it is a suitable fit.",
+      "Contact Oak for information about current groups, screening, and enrollment."
+    ],
+    "Prepare Enrich": [
+      "Prepare/Enrich is a relationship assessment and guided learning process for couples preparing for marriage or seeking to strengthen an existing marriage. The assessment helps identify relationship strengths and areas for growth.",
+      "With a facilitator, couples discuss their results and practice skills related to communication, conflict, expectations, and other areas important to their relationship. The process creates a starting point for focused conversations and relationship goals.",
+      "Contact Oak to ask about Prepare/Enrich and whether it fits your needs."
+    ],
+    "Girls Circle": [
+      "Girls Circle is a structured support group that uses discussion and creative activities to help participants build connection, confidence, and relationship skills. Topics may include friendships, identity, self-expression, decision-making, and recognizing personal strengths.",
+      "Participants are encouraged to listen respectfully and share at their own pace. Contact Oak for information about the age range, group format, and enrollment for a specific Girls Circle offering."
+    ],
+    "Medication Services and Telehealth": [],
+    "Medication Evaluation": [
+      "A medication evaluation is an appointment with a prescribing provider to discuss mental health symptoms and possible treatment options. The provider reviews relevant history, current medications, symptoms, and treatment goals.",
+      "The appointment may include discussion of whether medication could be helpful, potential benefits and side effects, and alternatives or additional supports. An evaluation does not necessarily result in a prescription. Recommendations depend on the providerâ€™s clinical assessment.",
+      "Contact Oak to ask about medication evaluation appointments with Steven Gatte, APRN."
+    ],
+    "Medication Management": [
+      "Medication management involves follow-up appointments to review how treatment is working. Your provider discusses symptoms, side effects, concerns, and any recommended changes to the medication plan.",
+      "When appropriate and with the necessary permission, your provider may coordinate with your therapist or other healthcare professionals. Follow-up frequency and prescribing decisions depend on your individual needs.",
+      "Contact Oak for information about medication management availability and scheduling."
+    ],
+    "Telehealth": [
+      "Telehealth may allow you to meet with an Oak provider by video when this format is appropriate for your care. It can help you attend appointments from a private space without traveling to an office.",
+      "Before scheduling, we confirm provider availability, whether telehealth is appropriate, and whether the provider is authorized to offer care where you will be physically located during the appointment. You will need a suitable device, a reliable internet connection, and a private place to participate.",
+      "Contact Oak to discuss telehealth options for the service you are seeking."
+    ],
+    "ASIST and Separate Court Related Services": [],
+    "Court and Community Programs page introduction": [
+      "Oak provides specialized services that respond to clinical, family, and community needs. Some programs require a referral and authorization from an agency or court-related professional. Others may be available through a private inquiry. The descriptions below explain each service and how to contact Oak about the appropriate next step."
+    ],
+    "CSSD ASIST Program": [
+      "ASIST stands for Advanced Supervision Intervention and Support Team. Oakâ€™s Meriden ASIST program serves eligible adults involved with the court system who need support for mental health concerns, including concerns that occur alongside substance use.",
+      "Services are individualized and may include assessment, treatment planning, individual and group interventions, clinical case management, and coordination with medication providers. Support may also include connecting clients with resources for housing, benefits, employment, and other needs that affect stability.",
+      "Oak collaborates with referring probation professionals and other authorized providers within program requirements and applicable confidentiality rules. Participation follows the Court Support Services Division referral and eligibility process.",
+      "Referring professionals can contact Oak to discuss program eligibility, availability, and the approved referral process. Individuals interested in ASIST should discuss a referral with their probation officer or referring professional."
+    ],
+    "Anger Management Classes": [
+      "Anger management classes help participants recognize triggers and learn more constructive responses to frustration and conflict. Topics may include emotional awareness, communication, coping skills, accountability, and the effects of behavior on relationships.",
+      "Before enrollment, Oak reviews the personâ€™s needs and any referral requirements. If you are seeking classes for a court or other outside requirement, confirm the required program and documentation with the referring party."
+    ],
+    "Substance Use Assessment": [
+      "A substance use assessment reviews alcohol or drug use, related concerns, relevant history, and the impact on daily functioning. The purpose is to identify clinical needs and discuss recommendations for treatment or other support.",
+      "Contact Oak to discuss the purpose of the assessment and whether our service fits your needs. Requirements for an agency or court-related referral should be clarified before scheduling."
+    ],
+    "DCF Community Programs": [],
+    "DCF Community Programs page introduction": [
+      "Oakâ€™s Department of Children and Families community programs support children, youth, and families through authorized referrals. Services follow the childâ€™s or familyâ€™s case plan and the terms of the approved assignment. Availability depends on the service requested, staffing, and referral authorization.",
+      "DCF professionals can contact Oak to discuss a referral and arrange the approved process for submitting information. Families interested in these programs should speak with their DCF social worker."
+    ],
+    "DCF Supervised Visitation": [
+      "Supervised Visitation supports safe contact between children or youth and approved parents, relatives, or other significant people in their lives. Staff facilitate and objectively observe visits in the setting authorized for the assignment.",
+      "The service includes attention to safety, parent-child interaction, and strengths or concerns observed during the visit. Staff provide feedback and complete visit documentation according to program requirements. Visits follow the approved referral and case plan.",
+      "Supervised Visitation is a visit-monitoring service, rather than a family therapy session. Contact Oak to discuss referral availability and authorized visit arrangements."
+    ],
+    "DCF Temporary Care": [
+      "Temporary Care provides short-term, non-overnight support for a child or youth while a more sustainable care arrangement is developed. Staff provide safe, age-appropriate activities and attend to needs within the authorized assignment.",
+      "Service arrangements are coordinated with DCF and caregivers, including the approved setting, schedule, and care plan. Temporary Care is intended for a limited period and does not provide ongoing daycare or residential care.",
+      "DCF professionals can contact Oak to discuss the childâ€™s needs and service availability."
+    ],
+    "DCF Therapeutic Support Staff": [
+      "Therapeutic Support Staff, or TSS, provides individualized support for children and youth through structured activities in home and community settings. Activities connect to case-plan goals and help participants practice skills in everyday situations.",
+      "Support may focus on social interactions, coping, emotional regulation, positive behavior, and participation in community activities. Staff coordinate with caregivers and other authorized team members to support progress and continuity.",
+      "TSS provides practical skill-building support and does not replace psychotherapy. Contact Oak to discuss an authorized referral."
+    ],
+    "Private Family Support Services": [],
+    "Family Based Supervised Visitation": [
+      "Family-based supervised visitation provides a structured setting for contact between a child and a parent or another approved family member when supervision is needed. Inquiries may come from families, attorneys, or guardians ad litem.",
+      "Before services begin, Oak reviews the requested arrangements, relevant documents, safety considerations, and the roles of the people involved. Staff facilitate and objectively observe visits within the agreed scope and provide documentation as outlined in the service agreement.",
+      "This service does not provide custody evaluations or make custody decisions. Contact Oak to discuss whether the requested visit arrangement is appropriate and available."
+    ],
+    "Co Parenting Counseling": [
+      "Co-parenting counseling helps parents address communication and parenting concerns when raising children across separate households. Sessions may focus on boundaries, routines, decision-making, managing disagreement, and keeping the childâ€™s needs central.",
+      "The clinician works with participants to identify goals and practice more constructive interactions. Before joint sessions, we assess whether the format is appropriate for the familyâ€™s circumstances and clarify the clinicianâ€™s role.",
+      "Contact Oak to discuss co-parenting counseling. If services have been recommended by a court or professional, let us know before scheduling so we can review the request."
+    ],
+    "Parenting Education and Family Responsibility": [
+      "Parenting education helps parents and caregivers develop practical skills that support family stability and childrenâ€™s development. Topics may include communication, emotional awareness, expectations, routines, constructive discipline, and responding to challenging behavior.",
+      "Classes may also address co-parenting and responsibility within family relationships. Oak reviews the participantâ€™s goals and any referral requirements before confirming the appropriate class or format.",
+      "Contact Oak to ask about parenting classes, individual learning options, and availability. For a court-related requirement, confirm the expected curriculum and documentation with the referring party before enrollment."
+    ],
+    "Evaluation Services for Future Publication": [],
+    "Evaluations page introduction": [
+      "Clinical evaluations provide a focused assessment and written findings for a specific question or referral purpose. The process may include interviews, relevant records, and assessment tools chosen for the type of evaluation.",
+      "Before scheduling, we clarify who is being evaluated, the purpose of the report, who will receive it, and any requirements of the requesting professional or organization. Findings reflect the evaluatorâ€™s clinical assessment; an evaluation does not guarantee a particular legal, administrative, employment, or medical outcome.",
+      "Contact Oak to discuss the evaluation you need and whether our service is appropriate for the referral."
+    ],
+    "Alcohol and Drug Evaluations for DUI Related Referrals": [
+      "An alcohol and drug evaluation for a DUI-related referral examines substance use history, relevant events, and current clinical concerns. The evaluator reviews the referral purpose and available records, conducts an assessment, and prepares findings and recommendations within the agreed scope.",
+      "Recommendations may include education, treatment, or further assessment when clinically indicated. Before scheduling, confirm the requesting courtâ€™s or agencyâ€™s requirements so we can determine whether our evaluation is suitable. Acceptance of a report is determined by the receiving party."
+    ],
+    "Anger Management Evaluation": [
+      "An anger management evaluation explores how a person experiences and responds to anger and conflict. It may review triggers, coping patterns, behavioral history, and the effects on relationships or daily functioning.",
+      "The evaluator prepares findings and recommendations based on the assessment and referral question. Recommendations may include education, counseling, or other services. An evaluation is separate from anger management classes and does not automatically result in a fixed number of required sessions.",
+      "Contact Oak to discuss the purpose of the evaluation and any outside requirements before scheduling."
+    ],
+    "Immigration Evaluation Copy": [],
+    "Immigration Psychosocial Evaluations": [
+      "Immigration psychosocial evaluations document mental health concerns, relevant experiences, and the impact of hardship or trauma in connection with an immigration matter. Depending on the referral, the assessment may address symptoms, daily functioning, treatment needs, and the effects on family relationships.",
+      "We clarify the assessment purpose and, with appropriate permission, coordinate with the referring attorney about the clinical questions to be addressed. The evaluation provides clinical findings; an immigration attorney advises on eligibility and legal strategy. A report does not guarantee approval of an application or petition."
+    ],
+    "Extreme Hardship Waiver Evaluations": [
+      "An extreme hardship evaluation documents the mental health and psychosocial circumstances of the person whose hardship is relevant to a waiver request. The assessment may explore the effects of possible family separation or relocation, existing mental health needs, caregiving responsibilities, and available supports.",
+      "The evaluation provides clinical information for the attorneyâ€™s consideration. Before scheduling, we clarify with the referring attorney who should be evaluated and which circumstances the assessment should address."
+    ],
+    "Violence Against Women Act Evaluations": [
+      "A Violence Against Women Act, or VAWA, evaluation documents the psychological impact of reported abuse in connection with an immigration matter. A trauma-informed assessment explores relevant experiences, symptoms, functioning, and support or treatment needs.",
+      "The purpose is to provide clinical findings that the attorney can consider as part of the case. Despite the name of the law, these evaluations are not limited to women. Legal eligibility should be discussed with an immigration attorney."
+    ],
+    "U Visa Evaluations": [
+      "A U visa evaluation documents the psychological impact of reported victimization in connection with a U visa matter. The assessment explores the personâ€™s experiences, symptoms, functioning, and ongoing support needs.",
+      "The evaluator provides a clinical report within the agreed scope. An attorney advises on legal eligibility and required case documentation. A clinical evaluation does not replace required law enforcement certification."
+    ],
+    "T Visa Evaluations": [
+      "A T visa evaluation documents the psychological effects of reported human trafficking, including labor or sex trafficking. The assessment considers the personâ€™s experiences, trauma-related symptoms, daily functioning, and treatment or support needs.",
+      "The process is designed to approach sensitive experiences respectfully and at an appropriate pace. Clinical findings may be considered by the referring attorney as part of the immigration matter; legal requirements and eligibility are addressed by counsel."
+    ],
+    "Bariatric and SAP Evaluation Copy": [],
+    "Bariatric Psychosocial Evaluations": [
+      "A bariatric psychosocial evaluation considers emotional and behavioral factors relevant to preparing for weight-loss surgery and the changes that follow. The assessment may explore mental health history, coping, eating-related concerns, expectations, and support systems.",
+      "The evaluator identifies strengths, areas needing additional support, and clinical recommendations. With appropriate permission, findings are shared with the referring surgical team according to the agreed evaluation process.",
+      "Before scheduling, we review the surgical programâ€™s requirements to determine whether our evaluation fits the request. The surgical team makes decisions about surgical care; the evaluation does not guarantee clearance or insurance approval."
+    ],
+    "DOT Substance Abuse Professional Evaluations": [
+      "A Substance Abuse Professional, or SAP, evaluation is part of the Department of Transportation process for employees who have violated DOT drug and alcohol testing regulations. A qualified SAP conducts an assessment and makes recommendations concerning required education or treatment.",
+      "The process includes follow-up assessment of compliance with the SAPâ€™s recommendations and recommendations related to follow-up testing, as applicable. A SAP evaluation is different from a general substance use assessment.",
+      "Contact Oak to discuss the referral and whether the service is appropriate. A SAP does not guarantee return to work; employers have responsibility for employment and return-to-duty decisions within the applicable requirements."
+    ],
+    "Coaching Intensives Wellness and Merchandise": [],
+    "Coaching": [
+      "Coaching offers a structured way to work on personal or professional goals. Sessions focus on identifying priorities, developing practical steps, and reviewing progress toward the changes you want to make.",
+      "Coaching may address areas such as managing transitions, strengthening routines, setting boundaries, or following through on goals. The scope is agreed upon at the outset. Coaching does not provide diagnosis or treatment of mental health conditions; when clinical care is needed, we discuss an appropriate referral."
+    ],
+    "Intensive Weekend Events": [
+      "Oakâ€™s intensive weekend events provide a focused period for learning and practicing skills around a defined topic. Depending on the event, the format may include guided exercises, discussion, and time to plan how to use the learning afterward.",
+      "Each event description explains its audience, goals, schedule, and participation requirements. We review fit before registration when screening is needed. Follow-up recommendations are based on the eventâ€™s scope and the participantâ€™s needs."
+    ],
+    "Corporate Wellness": [
+      "Oakâ€™s corporate wellness services support organizations seeking practical education about emotional well-being at work. Offerings may include workshops and facilitated learning on topics such as stress, communication, boundaries, and supporting healthier workplace practices.",
+      "We begin by discussing the organizationâ€™s audience, needs, and goals, then identify a suitable topic and format. Contact Oak to discuss an organizational inquiry and available offerings."
+    ],
+    "Oak Merchandise": [
+      "Explore Oak merchandise created to share our commitment to emotional well-being and community. Product details, prices, and ordering information are available in each listing."
+    ],
+    "Oak Clinical Academy and Careers": [],
+    "Oak Clinical Academy": [],
+    "Clinical Supervision for Social Workers Pursuing LCSW Licensure": [
+      "Clinical supervision helps social workers review clinical work and strengthen professional judgment. Topics may include assessment, case formulation, interventions, documentation, ethics, and professional growth.",
+      "Before beginning, we discuss your goals, work setting, supervision needs, and applicable licensure requirements. Contact Oak to ask about availability, the supervision format, and whether the arrangement fits your needs."
+    ],
+    "Internship Placements": [
+      "Oak offers supervised learning opportunities for social work students when placements are available. Activities may include observation, assessment, treatment planning, documentation, case coordination, and clinical work appropriate to the studentâ€™s preparation.",
+      "Placements are coordinated with the academic program and include a learning plan and supervision. Responsibilities reflect placement requirements, program needs, and demonstrated readiness.",
+      "Students and field coordinators may contact Oak about applications. Acceptance depends on fit, supervision capacity, school requirements, and required screening."
+    ],
+    "Academy Training and Professional Development": [
+      "Oak Clinical Academy uses guided learning, reflection, and practice to strengthen clinical skills. Learning areas may include assessment, diagnostic reasoning, treatment planning, documentation, safety, and culturally responsive care.",
+      "Contact Oak to ask which learning opportunities are currently available and who may participate."
+    ],
+    "Careers at Oak": [
+      "We welcome interest from professionals who value collaborative care, cultural humility, and continued learning. Opportunities may include clinical, community program, and administrative roles, depending on current needs.",
+      "View our posted openings or send your resume and area of interest to Jobs@oakcounselingservices.com. Role requirements and application instructions are provided with each opening."
+    ],
+    "Meet the Team Copy": [],
+    "Team page introduction": [
+      "Our team brings together clinical care, medication services, and administrative support. Learn about each team memberâ€™s role below, and contact Oak to ask about provider availability and service options."
+    ],
+    "Satina Mitchell LCSW": [
+      "CEO & Clinical Director\nSatina Mitchell is the founder, CEO, and Clinical Director of Oak Counseling Services, Inc. She guides the practiceâ€™s clinical services, supervision, and program development. Her work emphasizes person-centered care, cultural humility, and continued professional learning."
+    ],
+    "Mestude Vertusma LMSW": [
+      "ASIST Clinician | Meriden\nMestude Vertusma serves as an ASIST clinician at Oakâ€™s Meriden location, working with adults referred through the program. Her role includes assessment, treatment planning, clinical services, and coordination within the ASIST team."
+    ],
+    "Antonia Jackson LMSW": [
+      "Clinician | Wethersfield\nAntonia Jackson is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability."
+    ],
+    "Camille Lewis LMSW": [
+      "Clinician | Wethersfield\nCamille Lewis is a clinician at Oakâ€™s Wethersfield location. Contact Oak to learn about her current service offerings and appointment availability."
+    ],
+    "Hayley Fama": [
+      "MSW Intern | Meriden\nHayley Fama is an MSW intern at Oakâ€™s Meriden location. She participates in supervised clinical learning and activities appropriate to her placement and level of preparation."
+    ],
+    "Steven Gatte APRN": [
+      "Medication Management\nSteven Gatte provides medication evaluation and management through Oak. Contact our office for information about appointment availability and referral requirements."
+    ],
+    "Ed Buce": [
+      "Biller\nEd Buce supports Oakâ€™s billing operations. Please contact the office for billing questions and assistance with the appropriate next step."
+    ],
+    "LD": [
+      "Virtual Assistant"
+    ],
+    "Contact Pages and Inquiry Forms": [],
+    "Contact Oak": [
+      "Whether you are seeking care, asking about a program, or exploring a professional opportunity, we can help you identify the appropriate next step. Call 860-316-0262 or use the contact option that fits your inquiry."
+    ],
+    "Request an Appointment": [
+      "Tell us which service you are interested in and how we can contact you. An appointment request is an inquiry; your appointment is confirmed after scheduling arrangements are completed.",
+      "Please provide only basic contact information. Do not include diagnoses, detailed personal histories, court documents, or other sensitive information in this form or by ordinary email."
+    ],
+    "Professional and Agency Referrals": [
+      "For ASIST, DCF, or another professional referral, contact Oak to confirm the service, current availability, and referral requirements. We will explain the approved process for sharing referral information and records.",
+      "Please do not attach client records or include sensitive client details in the initial website inquiry."
+    ],
+    "Locations and contact details": [
+      "Meriden: 12 Curtis St., Suite 24, Meriden, CT 06450\nWethersfield: 185 Silas Deane Hwy, 3rd Floor, Wethersfield, CT 06109\nPhone: 860-316-0262 | Fax: 860-318-7442\nGeneral inquiries: info@oakcounselingservices.com\nEmployment inquiries: Jobs@oakcounselingservices.com"
+    ],
+    "Urgent help notice": [
+      "This website and its contact forms are not for emergencies. If you are in immediate danger or have a medical emergency, call 911 or go to the nearest emergency department. For a mental health or suicide crisis, call or text 988."
+    ],
+    "Frequently Asked Questions": [],
+    "How do I get started": [
+      "Call 860-316-0262 or submit an appointment inquiry with your contact details and service of interest. We will discuss next steps and availability. Agency programs follow their own referral and authorization process."
+    ],
+    "Where are you located": [
+      "Our main office is at 12 Curtis St., Suite 24, Meriden, CT 06450. Our second office is at 185 Silas Deane Hwy, 3rd Floor, Wethersfield, CT 06109. Confirm the location of your appointment when scheduling."
+    ],
+    "Do you offer telehealth": [
+      "Telehealth may be available depending on the service, provider, clinical fit, and where you will be physically located during the appointment. Contact Oak to discuss your options."
+    ],
+    "Do you accept my insurance": [
+      "Contact Oak with your plan information before scheduling. Participation varies by provider and service. Your insurer determines benefits and any out-of-pocket responsibility."
+    ],
+    "How much do services cost": [
+      "Contact Oak for the applicable fee before services begin. Payment arrangements and coverage differ for therapy, evaluations, classes, and other programs."
+    ],
+    "What happens at the first therapy appointment": [
+      "Your clinician will discuss your concerns, history, goals, and needs. You will review how treatment works, confidentiality and its limits, and next steps."
+    ],
+    "Can I enroll myself in ASIST or a DCF program": [
+      "These programs follow agency referral, eligibility, and authorization requirements. For ASIST, speak with your probation officer or referring professional. For DCF community programs, speak with your DCF social worker. Oak can answer questions about the referral process."
+    ],
+    "Is supervised visitation the same as family therapy": [
+      "Supervised visitation focuses on facilitating and observing approved family contact within an agreed service plan. Family therapy addresses clinical and relationship goals through treatment. Contact Oak to clarify which service is being requested."
+    ],
+    "Will an evaluation guarantee the result I need": [
+      "An evaluation provides clinical findings and recommendations within the agreed scope. Decisions by courts, immigration authorities, employers, insurers, and medical teams are made by those parties. Discuss any outside requirements before scheduling an evaluation."
+    ],
+    "Are all services on the website available immediately": [
+      "Availability varies by service, provider, and program. Contact Oak to confirm current openings or group enrollment. Appointment and referral inquiries do not guarantee acceptance or immediate scheduling."
+    ],
+    "How do I ask about jobs internships or supervision": [
+      "For employment, email Jobs@oakcounselingservices.com. For internship or supervision inquiries, contact info@oakcounselingservices.com or use the Academy inquiry option."
+    ],
+    "Search Metadata and Final Review": [],
+    "Home": [],
+    "Therapy and Medication Services": [],
+    "Court and Community Programs": [],
+    "Evaluations after launch": [],
+    "Site footer": [
+      "Oak Counseling Services, Inc. | Meriden and Wethersfield, Connecticut\nPhone: 860-316-0262 | Fax: 860-318-7442 | info@oakcounselingservices.com"
+    ],
+    "Oak confirmation before publication": [],
+    "Reference Notes for the Designer": [],
+    "Oak supplied information": [
+      "Business identity, contact details, team roster, and the list of services reflect the information and edits supplied by Oak for this website project. DCF descriptions were also checked against Oakâ€™s DCF Community Programs Staff Requirements Matrix, prepared September 2026. Current provider agreements and authorizations control service delivery."
+    ],
+    "DCF service references": [
+      "Advanced Behavioral Health administers Connecticut DCF credentialing resources and publishes program documents for these services.\nSupervised Visitation: https://www.abhct.com/programs-services/dcf-credentialing-forms/supervised-visitation/\nTemporary Care: https://www.abhct.com/programs-services/dcf-credentialing-forms/temporary-care/\nTherapeutic Support Staff: https://www.abhct.com/programs-services/dcf-credentialing-forms/therapeutic-support-staff/"
+    ],
+    "Relationship and group references": [
+      "Prepare/Enrich assessment overview: https://www.prepare-enrich.com/the-assessment/\nOne Circle Foundation Girls Circle model: https://onecirclefoundation.org/girls-circle"
+    ],
+    "Specialized evaluation references": [
+      "U.S. Department of Transportation SAP overview and links to regulations, qualification resources, and guidelines: https://www.transportation.gov/odapc/sap\nAmerican Society for Metabolic and Bariatric Surgery psychosocial evaluation recommendations: https://asmbs.org/resources/recommendations-for-the-presurgical-psychosocial-evaluation-of-bariatric-surgery-patients/\nPresurgical psychosocial evaluation recommendations abstract: https://pubmed.ncbi.nlm.nih.gov/27179400/\nU.S. Department of State U visa overview: https://travel.state.gov/content/travel/en/us-visas/other-visa-categories/visas-for-victims-of-criminal-activity.html"
+    ],
+    "Urgent help reference": [
+      "SAMHSA crisis help information: https://www.samhsa.gov/find-support/in-crisis"
+    ]
+  },
+  "images": {
+    "gallery": [
+      "https://images.unsplash.com/photo-1559027615-cd2628902d4a?w=600&q=80",
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a5?w=600&q=80",
+      "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&q=80"
+    ],
+    "faq": "/assets/gmLy2vAPbZQatjWL5QRhHPwzDM.png",
+    "why": "/assets/MRSOiXpIFb00ecCBZAb0MxDbwq8.png",
+    "session": "/assets/Hfu78l4aO8xnpHuNGEtmlyAfKRQ.png",
+    "hero": "/assets/DFb6aMOSFXN1z9MSGRPWJoBviAo.png",
+    "avatars": [
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+      "https://images.unsplash.com/photo-1516387938699-a93023bc5a13?w=400&q=80"
+    ]
+  }
+}

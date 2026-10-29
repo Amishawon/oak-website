@@ -1,0 +1,38 @@
+services:
+  db:
+    image: mariadb:11
+    environment:
+      MARIADB_ROOT_PASSWORD: local-development-only
+      MARIADB_DATABASE: oak
+      MARIADB_USER: oak
+      MARIADB_PASSWORD: local-development-only
+    volumes:
+      - oak_db:/var/lib/mysql
+  wordpress:
+    image: wordpress:php8.3-apache
+    ports:
+      - "127.0.0.1:8088:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: oak
+      WORDPRESS_DB_USER: oak
+      WORDPRESS_DB_PASSWORD: local-development-only
+    volumes:
+      - oak_wp:/var/www/html
+      - ./cms/oak-cms:/var/www/html/wp-content/plugins/oak-cms
+  frontend:
+    image: wordpress:php8.3-apache
+    ports:
+      - "127.0.0.1:8089:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: oak
+      WORDPRESS_DB_USER: oak
+      WORDPRESS_DB_PASSWORD: local-development-only
+    volumes:
+      - ./dist:/var/www/html
+      - oak_wp:/var/www/html/cms
+      - ./cms/oak-cms:/var/www/html/cms/wp-content/plugins/oak-cms
+volumes:
+  oak_db:
+  oak_wp:
